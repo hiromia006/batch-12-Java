@@ -14,6 +14,7 @@ public class SetTest {
         integers.add(40);
         integers.add(10);
 
+        integers.remove(10);
 
         integers.addAll(set);
         integers.removeAll(set);
